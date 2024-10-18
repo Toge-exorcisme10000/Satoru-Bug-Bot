@@ -21,15 +21,15 @@ global.ownername = 'TOGE INUMAKI' //owner name
 global.botname = 'TOGE X SATURU' //name of the bot
 
 //sticker details
-global.packname = 'Satoru X Bot'
-global.author = 'SatoruTech'
+global.packname = 'TOGE×GOJO'
+global.author = 'Toge inumaki'
 
 //console view/theme
 global.themeemoji = '🩵'
 global.wm = "SatoruTech in©"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vanj84h6rsQmGlOrMz1X'
+global.link = 'https://whatsapp.com/channel/0029VanJ8wqCsU9ViGHB6K1E'
 
 //custom prefix
 global.prefa = '.'
